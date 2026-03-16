@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "SUNSCRIBE TO AMEY EDITZ",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -63,
+    "y": 65,
+    "z": 17
   },
   "utils": {
     "auto-auth": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to AMEY EDITZ",
         "I like to play Minecraft!"
       ]
     },
